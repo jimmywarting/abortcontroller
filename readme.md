@@ -1,5 +1,7 @@
 # AbortController for Node.js
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jimmywarting/abortcontroller.svg)](https://greenkeeper.io/)
+
 [![npm version][npm-image]][npm-url]
 
 ```bash
